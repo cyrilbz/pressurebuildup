@@ -1,5 +1,5 @@
 # pressurebuildup
-The code to simulate pressure build-up in walnut tree stems. Here is the associated ublication : https://academic.oup.com/treephys/article/44/4/tpae037/7635490
+The code to simulate pressure build-up in walnut tree stems. Here is the associated publication : https://academic.oup.com/treephys/article/44/4/tpae037/7635490
 
 The main directory contains different sub-directories that correspond to different simulations. \
 Each sub-directory contains three .m files: main.m, parameters.m and dyfun.m (see explanation below), as well as data in .mat format (e.g., pressure and temperature fields, ...) produced by the simulations. \
